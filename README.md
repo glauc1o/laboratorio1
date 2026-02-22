@@ -21,3 +21,5 @@ Q = np.array([[1, 0, 1]])
 
  Output:
 [[1.47926312 2.47926312]]
+
+Ferramentas utilizadaS: VSCode, Python, ChatGPT.
